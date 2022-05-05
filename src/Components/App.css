@@ -58,6 +58,10 @@ button {
     cursor: pointer;
 }
 
+.copyPassword:active i {
+    color: rgb(131, 131, 131);
+}
+
 .checkboxOptions {
     width: 50%;
 }
